@@ -45,8 +45,7 @@ All experiments were conducted **only on networks owned by me** or explicitly au
 
 ---
 
-## 🚀 Next Steps
-- Deploy Plex media server on the same Pi (network streaming & VPN protected)
+## 🚀 Future Steps
 - Build a small dashboard to visualize capture logs & attempts
 - Explore containerization (Docker) for isolation of security tools
 
